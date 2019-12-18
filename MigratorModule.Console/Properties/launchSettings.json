@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MigratorModule.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--fromDb Test --fromServer DESKTOP-86P6JRQ\\SQLEXPRESS --toDb Test2 --toServer DESKTOP-86P6JRQ\\SQLEXPRESS --clientRef 1 --companyRef 2"
+    }
+  }
+}
